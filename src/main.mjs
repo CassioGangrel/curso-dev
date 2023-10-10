@@ -2,4 +2,7 @@
 // import "./map.mjs"
 // import "./reduce.mjs"
 // import "./atribuicao_condicional.mjs"
- import "./filter.mjs"
+// import "./filter.mjs"
+import "./sort.mjs"
+//import "./poderescosmicos.mjs"
+//import "./exercicios.mjs"
