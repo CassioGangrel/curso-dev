@@ -3,6 +3,6 @@
 // import "./reduce.mjs"
 // import "./atribuicao_condicional.mjs"
 // import "./filter.mjs"
-import "./sort.mjs"
+// import "./sort.mjs"
 //import "./poderescosmicos.mjs"
-//import "./exercicios.mjs"
+import "./exercicios.mjs"
