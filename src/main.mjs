@@ -1,0 +1,5 @@
+// import "./foreach.mjs"
+// import "./map.mjs"
+// import "./reduce.mjs"
+// import "./atribuicao_condicional.mjs"
+ import "./filter.mjs"
